@@ -12,7 +12,7 @@ public class MathCalculator
     }
 
     /**
-     * Return a name intromation
+     * Return a name information 
      */
     public String getName()
     {
